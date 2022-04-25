@@ -1,0 +1,30 @@
+.xbox .back, .xbox .start {
+    background: url(https://i.ibb.co/wyfTgdC/start-select2.png);
+}
+.xbox .stick {
+    background: url(https://i.ibb.co/r6JTPGd/stick3.png);
+    background-size: 164px 79px;
+    background-repeat: no-repeat;
+	background-position: -83px 0;
+}
+.xbox .button {
+    background: url(https://i.ibb.co/19CMdmh/abxy.png);
+    background-size: 195px 96px;
+    background-repeat: no-repeat;
+}
+.xbox .y {
+    background-position: -147px 0;
+}
+.xbox .bumper {
+    background: url(https://i.ibb.co/WFhXwrT/bumper2.png);
+    background-size: 171px 63px;
+}
+.xbox .trigger {
+    background: url(https://i.ibb.co/Vp05rNq/trigger.png);
+    background-size: 89px 122px;
+}
+.controller.xbox {
+    background: url(https://i.ibb.co/GR1ksgp/base7.png);
+    background-size: 750px 630px;
+    background-repeat: no-repeat;
+}
